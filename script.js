@@ -1,4 +1,3 @@
-
 function tickUp() {
     let counter = document.getElementById("counter");
     counter.textContent = parseInt(counter.textContent) + 1;
